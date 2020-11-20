@@ -17,6 +17,10 @@ Screens vom Spiel, der Steuerung, ...
 
 ## Vorwort<a name="1"></a>
 
+Unser Spiel "Maze Race" ist im ersten Halbjahr des Informatikunterricht der 12. Klasse entstanden. Wir sind ohne jegliche Programmiererfahrungen...
+
+- Informatikunterricht, auf Snap, Erfahrungen?, Grundprinzip, Struktur Projektseite
+
 ## Beschreibung<a name="2"></a>
 
 ## Erläuterung<a name="3"></a>
