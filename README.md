@@ -13,5 +13,16 @@ Schuljahr 2020/2021
 [Herausforderungen](#4)                                                                                                                                                             
 [Schlusswort](#5)
 
-
 Screens vom Spiel, der Steuerung, ...
+
+## Vorwort<a name="1"></a>
+
+## Beschreibung<a name="2"></a>
+
+## Erläuterung<a name="3"></a>
+
+Menüs, Steuerung, Spielfeld,
+
+## Herausforderungen<a name="4"></a>
+
+## Schlusswort<a name="5"></a>
