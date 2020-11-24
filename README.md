@@ -26,6 +26,8 @@ Auf unserer Projektseite werden wir im Folgenden zunächst unser Spiel beschreib
 
 ## Beschreibung <a name="2"></a>
 
+Wenn man unser Spiel "Maze Race" öffnet, erscheint direkt das zu durchquerende Labyrinth und der Spieler befindet sich an der Startposition links oben im Labyrinth. Das Ziel wird durch das rote Kreuz rechts unten markiert. Man kann nun schon den roten Gegenspieler erkennen, der seinen Weg vor dem Ziel abläuft. Des Weiteren öffnen und schließen sich die Barrikaden, die auf dem Weg zum Ziel aufzufinden sind. Zusätzlich sieht man unten links den grünen Coin, der als erstes eingesammelt werden muss, damit sich der nächste Coin, 
+
 ## Erläuterungen <a name="3"></a>
 
 ## Herausforderungen <a name="4"></a>
