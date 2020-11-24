@@ -8,10 +8,10 @@ Schuljahr 2020/2021
 
 ## Inhalt 
 
-[1. Vorwort](#1)
-[2. Beschreibung](#2)
-[3. Erläuterungen](#3)
-[4. Herausforderungen](#4)
+[1. Vorwort](#1)                                                                                                                                                                   
+[2. Beschreibung](#2)                                                                                                                                                               
+[3. Erläuterungen](#3)                                                                                                                                                             
+[4. Herausforderungen](#4)                                                                                                                                                         
 [5. Schlusswort](#5)
 
 Screens vom Spiel, der Steuerung, ..
