@@ -39,11 +39,25 @@ Maze Race wurde so programmiert, dass der Spieler, sobald er die Kanten des Laby
 ## Erläuterungen <a name="3"></a>
 
 ### Das Labyrinth
-Zunächst haben wir unser Labyrinth programmiert. Hierzu haben wir das Labyrinth mit einer Sprite gezeichnet. Die Sprite fährt zunächst mit einer vorher eingestellten Schriftgröße und Schriftfarbe senkrechte Linien und dann waagerechte Linien ab. Diese haben an gewissen Stellen Lücken, sodass sich dann im Endeffekt das typische Labyrinthmuster ergibt. Das Labyrinth erscheint schon zu Beginn des Spieles, weil es so programmiert wurde, dass es mit dem Klicken des Startbuttons bereits vollständig gezeichnet ist. Hierzu nutzen wir die Funktion "Warp".
+Zunächst haben wir unser Labyrinth programmiert. Hierzu haben wir das Labyrinth mit einer Sprite gezeichnet, welche zunächst mit einer vorher eingestellten Schriftgröße und Schriftfarbe senkrechte Linien und dann waagerechte Linien abfährt. Diese haben an gewissen Stellen Lücken, sodass sich dann im Endeffekt das typische Labyrinthmuster ergibt. Das Labyrinth erscheint schon zu Beginn des Spieles, weil es so programmiert wurde, dass es mit dem Klicken des Startbuttons bereits vollständig gezeichnet ist. Hierzu nutzen wir die Funktion "Warp".
 Der Ablauf der Programmierung ist folgendermaßen:+
+
 Die Sprite startet an einem von uns festgelegten Punkt. Um nun eine Linie zu erzeugen, nutzen wir "Pen down" und die jeweils benötigte Anzahl unserer vorher festgtelegten Variable "Breite", welche durch die Schrittweite 25 definiert ist. Nun verwendet man den Befehl "Pen up", um zum nächsten Anstatzpunkt einer Linie zu kommen. Dabei haben wir den Überblick durch das Verwenden eines imaginären Koordinatensystems behalten. Diese Abfolg wiederholt sich für die senkrechten und waagerechten Linien bis unser gewünschtes Labyrinth fertig gezeichnet ist.
 
 ![Prorammierung des Labyrinths](https://github.com/Frebecca/Projekt/blob/master/PB-Labyrinth%20descr.PNG)
+
+### Der Spieler
+
+### Die Coins
+
+### Die Barrikaden
+
+### Der Gegenspieler
+
+### Das Ziel
+
+### Die Complete Bühne
+
 
 ## Herausforderungen <a name="4"></a>
 
