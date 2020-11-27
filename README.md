@@ -48,9 +48,24 @@ Die Sprite startet an einem von uns festgelegten Punkt. Um nun eine Linie zu erz
 
 ### Der Spieler
 
+#### Steuerung
+
+#### Zurücksetzen des Spielers
+
+Barrikaden, Labyrinth, Gegenspieler
+
+#### Berührung der Coins
+
+#### Erreichen des Ziels 
+
+
 ### Die Coins
 
+Reihenfolge, verstecken, erscheinen
+
 ### Die Barrikaden
+
+öffnen, schließen, do not touch, letzter Coin öffnet letzte Barrikade
 
 ### Der Gegenspieler
 
