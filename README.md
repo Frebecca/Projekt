@@ -32,7 +32,7 @@ Wenn man unser Spiel "Maze Race" öffnet, erscheint direkt das zu durchquerende 
 
 Wenn man das Ziel erreicht hat, erscheint der Schriftzug "Complete", welcher ebenfalls einem Labyrinth ähnelt. Der Spieler kann durch die einzelnen Buchstaben laufen, jedoch gibt es hier keine weitere Aufgabe, denn das Spiel ist mit dem Erreichen des Zieles beendet.
 
-![Complete]()
+![Complete](https://github.com/Frebecca/Projekt/blob/master/PB-complete%20screen.PNG)
 
 Maze Race wurde so programmiert, dass der Spieler, sobald er die Kanten des Labyrinths, die Barrikaden oder den Gegenspieler berührt, zurück an den Anfang des Labyrinths versetzt wird und von vorne beginnen muss. Die Steuerung des Spielers kann ganz einfach und unkompliziert mittels der vier Pfeiltasten erfolgen, die ihn dann je nach Pfeiltaste, nach rechts, links oben oder auch unten gehen lassen. Eine dauerhafte Betätigung einer Taste führt dazu, dass sich der Spieler in dieser Richtung wesentlich schneller bewegt.
 
