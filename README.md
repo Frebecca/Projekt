@@ -95,6 +95,7 @@ Falls der Spieler eine Barrikade berührt, wird er an den Spielanfang zurückges
 ### Der Gegenspieler
 
 Unser roter Gegenspieler ist schon zu Beginn des Spiels sichtbar und fährt die von uns festgelegte Strecke ab. Dabei versperrt er teilweise den Weg zum lilafarbenen Coin, sodass sich der Spieler im passenden Moment an dem Gegenspieler vorbei bewegen muss. Berührt der Spieler den Gegenspieler, so wird er an den Spielanfang zurückgesetzt. VERLINKEN
+
 ![Gegenspieler](https://github.com/Frebecca/Projekt/blob/master/Gegenspieler.png)
 
 Die Programmierung des Gegenspielers basiert auf der Startposition und der sich dauerhaft wiederholenden abzulaufenden Strecke, wobei sich zwischen jedem einzelnen Schritt 0,7 Sekunden Pause befinden. 
