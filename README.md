@@ -74,6 +74,9 @@ Der Spieler sendet, sobald er den grünen, blauen bzw. lilafarbenen Coin berühr
 
 #### Erreichen des Ziels 
 
+Wenn der Spieler das Ziel „Labyrinth“ berührt, wird eine Nachricht an alle versendet, die den Befehl enthält, sich zu verstecken. Die Complete Bühne, die oben bereits gezeigt wurde VERLINKEN, erscheint und der Spieler ändert seine Position, sodass er sich nun innerhalb des Schriftzuges befindet und bewegen kann.
+
+![Spieler Steuerung, sobald Ziel erreicht ist](https://github.com/Frebecca/Projekt/blob/master/Spieler%20Ziel.png)
 
 ### Die Coins
 
