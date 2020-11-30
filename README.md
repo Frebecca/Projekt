@@ -61,6 +61,11 @@ Sobald der Spieler die Kanten des Labyrinths, die Barrikaden oder den Gegenspiel
 
 #### Berührung der Coins
 
+Zu den Aufgaben des Spielers gehört es, die drei Coins einzusammeln, damit sich die Barrikade zum Ziel öffnet. 
+
+Der erste grüne Coin ist mit dem Beginn des Spiels bereits sichtbar und muss zuerst eingesammelt werden. Erreicht der Spieler diesen, so versteckt sich dieser auf Grund der Programmierung und der zweite Coin, ein blauer, erscheint an einer anderen Stelle und muss nun ebenfalls erreicht werden. Hier greift das selbe Schema wie beim ersten Coin: Wird der blaue Coin eingesammelt, so zeigt sich der letzte, lilafarbene Coin und der blaue Coin erlischt. Mit dem Einsammeln des letzten Coins öffnet sich die Barrikade und der Weg zum Ziel ist geöffnet.
+
+
 #### Erreichen des Ziels 
 
 
