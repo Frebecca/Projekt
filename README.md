@@ -14,7 +14,6 @@ Schuljahr 2020/2021
 [4. Herausforderungen](#4)                                                                                                                                                         
 [5. Schlusswort](#5)
 
-Screens vom Spiel, der Steuerung, ..
 
 ## Vorwort<a name="1"></a>
 
