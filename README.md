@@ -80,7 +80,8 @@ Wenn der Spieler das Ziel „Labyrinth“ berührt, wird eine Nachricht an alle 
 
 ### Die Coins
 
-Reihenfolge, verstecken, erscheinen
+Die Programmierung der Coins lässt sich bei der Erläuterung des Spielers unter der Berührung der Coins nachlesen.
+VERLINKEN
 
 ### Die Barrikaden
 
