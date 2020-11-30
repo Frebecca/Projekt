@@ -112,6 +112,13 @@ Die Steuerung des Spielers, sobald dieser das Ziel berührt, ist unter der Erlä
 
 ### Die Complete Bühne
 
+Die Complete Bühne fungiert als Endbildschirm, sobald das Ziel erreicht wurde. Außerdem ist es ein weiteres Labyrinth, das vom Spieler durchlaufen werden kann – jedoch ohne weiteres Ziel. Diese Funktion ist ein extra Feature. 
+
+Die Bühne ist so programmiert, dass eine Sprite zunächst den äußeren Umriss und dann das Innenleben zeichnet. 
+
+![Schriftzug](https://github.com/Frebecca/Projekt/blob/master/C%20B.png)
+
+![Programmierung der Complete Bühne](https://github.com/Frebecca/Projekt/blob/master/C%20B%202.png)
 
 ## Herausforderungen <a name="4"></a>
 
