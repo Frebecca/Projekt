@@ -104,6 +104,12 @@ Die Programmierung des Gegenspielers basiert auf der Startposition und der sich 
 
 ### Das Ziel
 
+Das Ziel, welches durch das rote Kreuz markiert ist, haben wir gezeichnet. Sobald der Spieler dieses berührt, zeigt sich die Complete Bühne. VERLINKUNG
+
+Die Steuerung des Spielers, sobald dieser das Ziel berührt, ist unter der Erläuterung des Spielers bei Berührung des Ziels nachzulesen. VERLINKUNG
+
+![Ziel](https://github.com/Frebecca/Projekt/blob/master/Ziel.png)
+
 ### Die Complete Bühne
 
 
