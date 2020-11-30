@@ -51,6 +51,8 @@ Die Sprite startet an einem von uns festgelegten Punkt. Um nun eine Linie zu erz
 #### Steuerung
 Der Spieler wird durch einen kleinen schwarzen Strich dargestellt. Mit Hilfe der vier Pfeiltasten kann man den Spieler in alle vier Richtungen manövrieren. Die Bewegung wird durch den Befehl „When x arrow key pressed“, „Point in direction x“ und „Move 2 steps“ gesteuert. Dieser Ablauf gilt für alle vier Richtungen.
 
+![Steuerung des Spielers]()
+
 #### Zurücksetzen des Spielers
 
 Barrikaden, Labyrinth, Gegenspieler
