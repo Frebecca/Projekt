@@ -85,7 +85,12 @@ VERLINKEN
 
 ### Die Barrikaden
 
-öffnen, schließen, do not touch, letzter Coin öffnet letzte Barrikade
+In unserem Spiel befinden sich insgesamt vier Barrikaden, von denen sich drei zum Spielbeginn bereits ständig öffnen und schließen und eine erst mit dem Einsammeln des letzten Coins bewegt.
+Unsere Programmierung für jede einzelne Barrikade besteht aus der Festgelegten Position und dem Befehl, sich nach jeweils zwei Sekunden einen ganzen Schritt (Gangbreite) zu bewegen. Die Barrikade wechselt also im Zwei-Sekunden-Takt die Position, sodass sich ein Öffnen und Schließen ergibt.
+
+![Barrikaden Steuerung](https://github.com/Frebecca/Projekt/blob/master/Barrikade%20Str.png)
+
+Falls der Spieler eine Barrikade berührt, wird er an den Spielanfang zurückgesetzt. VERLINKEN
 
 ### Der Gegenspieler
 
