@@ -53,7 +53,7 @@ Der Spieler wird durch einen kleinen schwarzen Strich dargestellt. Mit Hilfe der
 
 ![Steuerung des Spielers](https://github.com/Frebecca/Projekt/blob/master/Spieler%20Steuerung.png)
 
-#### Zurücksetzen des Spielers
+#### Zurücksetzen des Spielers <a name="c"></a>
 
 Sobald der Spieler die Kanten des Labyrinths, die Barrikaden oder den Gegenspieler berührt, wird er an den Start zurückgesetzt. Die Position des Startpunktes haben wir durch die Variable "go to x: X y: Y" definiert.
 
@@ -88,7 +88,7 @@ Unsere Programmierung für jede einzelne Barrikade besteht aus der Festgelegten 
 
 ![Barrikaden Steuerung](https://github.com/Frebecca/Projekt/blob/master/Barrikade%20Str.png)
 
-Falls der Spieler eine Barrikade berührt, wird er an den Spielanfang zurückgesetzt. VERLINKEN
+Falls der Spieler eine Barrikade berührt, wird er an den Spielanfang [zurückgesetzt](#c).
 
 ### Der Gegenspieler
 
