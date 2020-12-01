@@ -13,9 +13,7 @@ Schuljahr 2020/2021
 [3. Erläuterungen](#3)
 
 [3.1 Das Labyrinth](#3.1)
-
 [3.2 Der Spieler](#3.2)
-
 [3.3 Die Coins](#3.3)
 
 [3.4 Die Barrikaden](#3.4)
