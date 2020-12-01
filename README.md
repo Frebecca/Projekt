@@ -65,12 +65,12 @@ Zu den Aufgaben des Spielers gehört es, die drei Coins einzusammeln, damit sich
 
 Der erste grüne Coin ist mit dem Beginn des Spiels bereits sichtbar und muss zuerst eingesammelt werden. Erreicht der Spieler diesen, so versteckt sich dieser auf Grund der Programmierung und der zweite Coin, ein blauer, erscheint an einer anderen Stelle und muss nun ebenfalls erreicht werden. Hier greift das selbe Schema wie beim ersten Coin: Wird der blaue Coin eingesammelt, so zeigt sich der letzte, lilafarbene Coin und der blaue Coin erlischt. Mit dem Einsammeln des letzten Coins öffnet sich die Barrikade und der Weg zum Ziel ist geöffnet.
 
-Der Spieler sendet, sobald er den grünen, blauen bzw. lilafarbenen Coin berührt, eine Nachricht an diesen, sodass sich der berührte Coin dann verszeckt und der folgende Coin erscheint. Soabld der Spieler den letzten Coin berührt, wird zusäztlich der Befehl an die Barrikade, bzw. das "Objekt" gesendet, sich abwechselnd zu öffnen und schließen.
+Der Spieler sendet, sobald er den grünen, blauen bzw. lilafarbenen Coin berührt, eine Nachricht an diesen, sodass sich der berührte Coin dann versteckt und der folgende Coin erscheint. Soabld der Spieler den letzten Coin berührt, wird zusäztlich der Befehl an die Barrikade, bzw. das "Objekt" gesendet, sich abwechselnd zu öffnen und schließen.
 
 ![Nachricht von Spieler an Coins](https://github.com/Frebecca/Projekt/blob/master/Coins%20Spieler.png)
 
 ![Reaktion der Coins](https://github.com/Frebecca/Projekt/blob/master/Coins%20Coin.png)
-
+<a name="b"></a>
 
 #### Erreichen des Ziels 
 
@@ -80,7 +80,7 @@ Wenn der Spieler das Ziel „Labyrinth“ berührt, wird eine Nachricht an alle 
 
 ### Die Coins
 
-Die Programmierung der Coins lässt sich bei der Erläuterung des Spielers unter der Berührung der Coins nachlesen.
+Die Programmierung der Coins lässt sich bei der Erläuterung des Spielers unter der [Berührung der Coins](#b) nachlesen.
 VERLINKEN
 
 ### Die Barrikaden
