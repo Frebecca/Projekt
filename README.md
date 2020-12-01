@@ -14,14 +14,10 @@ Schuljahr 2020/2021
 
 [3.1 Das Labyrinth](#3.1)   
 [3.2 Der Spieler](#3.2)  
-[3.3 Die Coins](#3.3)
-
-[3.4 Die Barrikaden](#3.4)
-
-[3.5 Der Gegenspieler](#3.5)
-
-[3.6 Das Ziel](#3.6)
-
+[3.3 Die Coins](#3.3)                                                                                                                                                           
+[3.4 Die Barrikaden](#3.4)                                                                                                                                                       
+[3.5 Der Gegenspieler](#3.5)                                                                                                                                                     
+[3.6 Das Ziel](#3.6)                                                                                                                                                             
 [3.7 Die Complete Bühne](#3.7)
 
 [4. Herausforderungen](#4)                                                                                                                                                         
