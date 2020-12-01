@@ -10,7 +10,22 @@ Schuljahr 2020/2021
 
 [1. Vorwort](#1)                                                                                                                                                                   
 [2. Beschreibung](#2)                                                                                                                                                               
-[3. Erläuterungen](#3)                                                                                                                                                             
+[3. Erläuterungen](#3)
+
+[3.1 Das Labyrinth](#3.1)
+
+[3.2 Der Spieler](#3.2)
+
+[3.3 Die Coins](#3.3)
+
+[3.4 Die Barrikaden](#3.4)
+
+[3.5 Der Gegenspieler](#3.5)
+
+[3.6 Das Ziel](#3.6)
+
+[3.7 Die Complete Bühne](#3.7)
+
 [4. Herausforderungen](#4)                                                                                                                                                         
 [5. Schlusswort](#5)
 
@@ -38,7 +53,7 @@ Maze Race wurde so programmiert, dass der Spieler, sobald er die Kanten des Laby
 
 ## Erläuterungen <a name="3"></a>
 
-### Das Labyrinth
+### Das Labyrinth <a name="3.1"></a>
 Zunächst haben wir unser Labyrinth programmiert. Hierzu haben wir das Labyrinth mit einer Sprite gezeichnet, welche zunächst mit einer vorher eingestellten Schriftgröße und Schriftfarbe senkrechte Linien und dann waagerechte Linien abfährt. Diese haben an gewissen Stellen Lücken, sodass sich dann im Endeffekt das typische Labyrinthmuster ergibt. Das Labyrinth erscheint schon zu Beginn des Spieles, weil es so programmiert wurde, dass es mit dem Klicken des Startbuttons bereits vollständig gezeichnet ist. Hierzu nutzen wir die Funktion "Warp".
 Der Ablauf der Programmierung ist folgendermaßen:
 
@@ -46,7 +61,7 @@ Die Sprite startet an einem von uns festgelegten Punkt. Um nun eine Linie zu erz
 
 ![Prorammierung des Labyrinths](https://github.com/Frebecca/Projekt/blob/master/PB-Labyrinth%20descr.PNG)
 
-### Der Spieler
+### Der Spieler <a name="3.2"></a>
 
 #### Steuerung
 Der Spieler wird durch einen kleinen schwarzen Strich dargestellt. Mit Hilfe der vier Pfeiltasten kann man den Spieler in alle vier Richtungen manövrieren. Die Bewegung wird durch den Befehl „When x arrow key pressed“, „Point in direction x“ und „Move 2 steps“ gesteuert. Dieser Ablauf gilt für alle vier Richtungen.
@@ -77,11 +92,11 @@ Wenn der Spieler das Ziel „Labyrinth“ berührt, wird eine Nachricht an alle 
 
 ![Spieler Steuerung, sobald Ziel erreicht ist](https://github.com/Frebecca/Projekt/blob/master/Spieler%20Ziel.png)
 
-### Die Coins
+### Die Coins <a name="3.3"></a>
 
 Die Programmierung der Coins lässt sich bei der Erläuterung des Spielers unter der [Berührung der Coins](#b) nachlesen.
 
-### Die Barrikaden
+### Die Barrikaden <a name="3.4"></a>
 
 In unserem Spiel befinden sich insgesamt vier Barrikaden, von denen sich drei zum Spielbeginn bereits ständig öffnen und schließen und eine erst mit dem Einsammeln des letzten Coins bewegt.
 Unsere Programmierung für jede einzelne Barrikade besteht aus der Festgelegten Position und dem Befehl, sich nach jeweils zwei Sekunden einen ganzen Schritt (Gangbreite) zu bewegen. Die Barrikade wechselt also im Zwei-Sekunden-Takt die Position, sodass sich ein Öffnen und Schließen ergibt.
@@ -90,7 +105,7 @@ Unsere Programmierung für jede einzelne Barrikade besteht aus der Festgelegten 
 
 Falls der Spieler eine Barrikade berührt, wird er an den Spielanfang [zurückgesetzt](#c).
 
-### Der Gegenspieler
+### Der Gegenspieler <a name="3.5"></a>
 
 Unser roter Gegenspieler ist schon zu Beginn des Spiels sichtbar und fährt die von uns festgelegte Strecke ab. Dabei versperrt er teilweise den Weg zum lilafarbenen Coin, sodass sich der Spieler im passenden Moment an dem Gegenspieler vorbei bewegen muss. Berührt der Spieler den Gegenspieler, so wird er an den Spielanfang [zurückgesetzt](#c). 
 
@@ -100,7 +115,7 @@ Die Programmierung des Gegenspielers basiert auf der Startposition und der sich 
 
 ![Steuerung des Gegenspielers](https://github.com/Frebecca/Projekt/blob/master/Str%20Gegenspieler.png)
 
-### Das Ziel
+### Das Ziel <a name="3.6"></a>
 
 Das Ziel, welches durch das rote Kreuz markiert ist, haben wir gezeichnet. Sobald der Spieler dieses berührt, zeigt sich die [Complete Bühne](#a).
 
@@ -108,7 +123,7 @@ Die Steuerung des Spielers, sobald dieser das [Ziel berührt](#d), ist unter der
 
 ![Ziel](https://github.com/Frebecca/Projekt/blob/master/Ziel.png)
 
-### Die Complete Bühne
+### Die Complete Bühne <a name="3.7"></a>
 
 Die Complete Bühne fungiert als Endbildschirm, sobald das Ziel erreicht wurde. Außerdem ist es ein weiteres Labyrinth, das vom Spieler durchlaufen werden kann – jedoch ohne weiteres Ziel. Diese Funktion ist ein extra Feature. 
 
