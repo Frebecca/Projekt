@@ -92,7 +92,7 @@ Falls der Spieler eine Barrikade berührt, wird er an den Spielanfang [zurückge
 
 ### Der Gegenspieler
 
-Unser roter Gegenspieler ist schon zu Beginn des Spiels sichtbar und fährt die von uns festgelegte Strecke ab. Dabei versperrt er teilweise den Weg zum lilafarbenen Coin, sodass sich der Spieler im passenden Moment an dem Gegenspieler vorbei bewegen muss. Berührt der Spieler den Gegenspieler, so wird er an den Spielanfang zurückgesetzt. VERLINKEN
+Unser roter Gegenspieler ist schon zu Beginn des Spiels sichtbar und fährt die von uns festgelegte Strecke ab. Dabei versperrt er teilweise den Weg zum lilafarbenen Coin, sodass sich der Spieler im passenden Moment an dem Gegenspieler vorbei bewegen muss. Berührt der Spieler den Gegenspieler, so wird er an den Spielanfang [zurückgesetzt](#c). 
 
 ![Gegenspieler](https://github.com/Frebecca/Projekt/blob/master/Gegenspieler.png)
 
