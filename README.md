@@ -71,7 +71,7 @@ Der Spieler sendet, sobald er den grünen, blauen bzw. lilafarbenen Coin berühr
 
 ![Reaktion der Coins](https://github.com/Frebecca/Projekt/blob/master/Coins%20Coin.png)
 
-#### Erreichen des Ziels 
+#### Erreichen des Ziels <a name="d"></a>
 
 Wenn der Spieler das Ziel „Labyrinth“ berührt, wird eine Nachricht an alle versendet, die den Befehl enthält, sich zu verstecken. Die Complete Bühne, die oben bereits gezeigt wurde [(siehe Bild)](#a), erscheint und der Spieler ändert seine Position, sodass er sich nun innerhalb des Schriftzuges befindet und bewegen kann.
 
@@ -102,9 +102,9 @@ Die Programmierung des Gegenspielers basiert auf der Startposition und der sich 
 
 ### Das Ziel
 
-Das Ziel, welches durch das rote Kreuz markiert ist, haben wir gezeichnet. Sobald der Spieler dieses berührt, zeigt sich die Complete Bühne. VERLINKUNG
+Das Ziel, welches durch das rote Kreuz markiert ist, haben wir gezeichnet. Sobald der Spieler dieses berührt, zeigt sich die [Complete Bühne](#a).
 
-Die Steuerung des Spielers, sobald dieser das Ziel berührt, ist unter der Erläuterung des Spielers bei Berührung des Ziels nachzulesen. VERLINKUNG
+Die Steuerung des Spielers, sobald dieser das [Ziel berührt](#d), ist unter der Erläuterung des Spielers bei Berührung des Ziels nachzulesen.
 
 ![Ziel](https://github.com/Frebecca/Projekt/blob/master/Ziel.png)
 
