@@ -23,12 +23,11 @@ Maze Race ist ein Spiel, in dem es das Ziel ist, ein Labyrinth erfolgreich zu du
 
 Auf unserer Projektseite werden wir im Folgenden zunächst unser Spiel beschreiben und dann die einzelnen Funktionen und Abläufe genauer erläutern.
 
-## Beschreibung <a name="2"></a>
+## Beschreibung <a name="2"></a> <a name="a"></a>
 
 Wenn man unser Spiel "Maze Race" öffnet, erscheint direkt das zu durchquerende Labyrinth und der Spieler befindet sich an der Startposition links oben im Labyrinth. Das Ziel wird durch das rote Kreuz rechts unten markiert. Man kann nun schon den roten Gegenspieler erkennen, der seinen Weg vor dem Ziel abläuft. Des Weiteren öffnen und schließen sich die Barrikaden, die auf dem Weg zum Ziel aufzufinden sind. Zusätzlich sieht man unten links den grünen Coin, der als erstes eingesammelt werden muss, damit sich der nächste Coin, der blaue, zeigt und ebenfalls eingesammelt werden muss. Hat man dies bewältigt, so zeigt sich der letzte lilane Coin, der, wenn er auch eingesammelt wurde, die Barrikade öffnet, die bislang noch den Weg zum Ziel blockierte. 
 
 ![Startposition](https://github.com/Frebecca/Projekt/blob/master/PB-start%20screen.PNG)
-<a name="a"></a>
 
 Wenn man das Ziel erreicht hat, erscheint der Schriftzug "Complete", welcher ebenfalls einem Labyrinth ähnelt. Der Spieler kann durch die einzelnen Buchstaben laufen, jedoch gibt es hier keine weitere Aufgabe, denn das Spiel ist mit dem Erreichen des Zieles beendet.
 
@@ -60,14 +59,13 @@ Sobald der Spieler die Kanten des Labyrinths, die Barrikaden oder den Gegenspiel
 
 ![Zurücksetzen des Spielers](https://github.com/Frebecca/Projekt/blob/master/Spieler%20Zs.png)
 
-#### Berührung der Coins
+#### Berührung der Coins <a name="b"></a>
 
 Zu den Aufgaben des Spielers gehört es, die drei Coins einzusammeln, damit sich die Barrikade zum Ziel öffnet. 
 
 Der erste grüne Coin ist mit dem Beginn des Spiels bereits sichtbar und muss zuerst eingesammelt werden. Erreicht der Spieler diesen, so versteckt sich dieser auf Grund der Programmierung und der zweite Coin, ein blauer, erscheint an einer anderen Stelle und muss nun ebenfalls erreicht werden. Hier greift das selbe Schema wie beim ersten Coin: Wird der blaue Coin eingesammelt, so zeigt sich der letzte, lilafarbene Coin und der blaue Coin erlischt. Mit dem Einsammeln des letzten Coins öffnet sich die Barrikade und der Weg zum Ziel ist geöffnet.
 
 Der Spieler sendet, sobald er den grünen, blauen bzw. lilafarbenen Coin berührt, eine Nachricht an diesen, sodass sich der berührte Coin dann versteckt und der folgende Coin erscheint. Soabld der Spieler den letzten Coin berührt, wird zusäztlich der Befehl an die Barrikade, bzw. das "Objekt" gesendet, sich abwechselnd zu öffnen und schließen.
-<a name="b"></a>
 
 ![Nachricht von Spieler an Coins](https://github.com/Frebecca/Projekt/blob/master/Coins%20Spieler.png)
 
@@ -82,7 +80,6 @@ Wenn der Spieler das Ziel „Labyrinth“ berührt, wird eine Nachricht an alle 
 ### Die Coins
 
 Die Programmierung der Coins lässt sich bei der Erläuterung des Spielers unter der [Berührung der Coins](#b) nachlesen.
-VERLINKEN
 
 ### Die Barrikaden
 
