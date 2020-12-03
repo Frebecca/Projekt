@@ -129,4 +129,8 @@ Die Bühne ist so programmiert, dass eine Sprite zunächst den äußeren Umriss 
 
 ## Herausforderungen <a name="4"></a>
 
+Wir standen vor zwei größeren Herausforderungen. Zum einen sind wir ohne jegliche Programmiererfahrungen in den Informatikunterricht gekommen und mussten uns zunächst einmal überlegen, was und womit wir unser Projekt programmieren möchten. Wir hatten zwei Ideen und haben uns zunächst mit der ersten Idee, einer Spirale, auseinandergesetzt. Jedoch wollten wir dann doch lieber unsere zweite Idee, ein Labyrinth, weiter verfolgen und haben somit nach einigen Stunden mit einem neuen Projekt angefangen.
+Unsere zweite Herausforderung bestand darin, dass wir manchmal nicht direkt nachvollziehen konnten, warum gewisse Programmierungen so nicht funktionieren oder für uns unerklärliche Bewegungsabläufe geschehen. Dies betraf beispielsweise die Hitbox, das Zurücksetzen bei Berührungen und die Zeichnung des Labyrinths. Die Probleme haben uns teilweise ein paar Stunden lang beschäftigt, aber letztendlich konnten wir auch diese bewältigen und unser Projekt weiter entwickeln.
+
 ## Schlusswort <a name="5"></a>
+
