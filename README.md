@@ -134,3 +134,4 @@ Unsere zweite Herausforderung bestand darin, dass wir manchmal nicht direkt nach
 
 ## Schlusswort <a name="5"></a>
 
+Rückblickend können wir sagen, dass wir unser Projekt stetig mit weiteren Features erweitern konnten und uns immer wieder neue Idee kamen, mit denen wir es erweitern konnten.
