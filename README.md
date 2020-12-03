@@ -30,6 +30,8 @@ Unser Spiel "Maze Race" ist im ersten Halbjahr des Informatikunterrichts der 12.
 
 Maze Race ist ein Spiel, in dem es das Ziel ist, ein Labyrinth erfolgreich zu durchqueren. Die Suche nach dem richtigen Weg durch die verschiedenen Labyrinthgänge wird dabei durch einen Gegner, sich bewegende Wände und verschiedene Aufgaben erschwert. Um hier zu gewinnnen, sollte man ein wenig Geschicklichkeit besitzen. Wer also Spaß an Geschicklichkeitspielen hat, der kann sich zum Zeitvertreib einen Weg durch unser Labyrinth bahnen.
 
+https://snap.berkeley.edu/project?user=frederikrebecca&project=Labyrinth
+
 Auf unserer Projektseite werden wir im Folgenden zunächst unser Spiel beschreiben und dann die einzelnen Funktionen und Abläufe genauer erläutern.
 
 ## Beschreibung <a name="2"></a> <a name="a"></a>
