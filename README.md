@@ -139,6 +139,6 @@ Unsere zweite Herausforderung bestand darin, dass wir manchmal nicht direkt nach
 
 ## Schlusswort <a name="5"></a>
 
-Rückblickend können wir sagen, dass wir unser Projekt stetig mit weiteren Features erweitern konnten und uns immer wieder neue Idee kamen, mit denen wir es erweitern konnten. Unser Spiel hat sich von der Programmierung beziehungsweise Zeichnung des Labyrinths über den Spieler, der zum Ziel gelangen und dabei herausfordernde Hindernisse umgehen und Aufgaben bewältigen muss, entwickelt. Als extra Feature gibt es bei dem Erreichen des Ziels den Schriftzug "Complete", in welchem sich der Spieler wie in einem Labyrinth bewegen kann.
+Rückblickend können wir sagen, dass wir unser Projekt stets mit weiteren Features erweitern konnten und uns immer wieder neue Idee kamen, mit denen wir es erweitern konnten. Unser Spiel hat sich von der Programmierung beziehungsweise Zeichnung des Labyrinths über den Spieler, der zum Ziel gelangen und dabei herausfordernde Hindernisse umgehen und Aufgaben bewältigen muss, zum komplexeren Labyrinth entwickelt. Als extra Feature gibt es bei dem Erreichen des Ziels den Schriftzug "Complete", in welchem sich der Spieler wie in einem Labyrinth bewegen kann.
 
-Wir sind sehr zufrieden, was wir in den paar Monaten Informatikunterricht mit keinerlei Programmiererfahrung erreicht haben und freuen uns auf unser nächstes Projekt, bei dem wir weitere Techniken und Programmiersprachen lernen und anwenden können.
+Wir sind sehr zufrieden mit dem, was wir in den paar Monaten Informatikunterricht mit keinerlei Programmiererfahrung erreichen konnten und freuen uns auf unser nächstes Projekt, bei dem wir weitere Techniken und Programmiersprachen lernen und anwenden können.
